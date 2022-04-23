@@ -1,12 +1,17 @@
 {
-  "name": "js-building-final-portal",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "start": "node server"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
-}
+    "name": "milestone-activity",
+    "version": "1.0.0",
+    "description": "",
+    "main": "game.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "",
+    "license": "",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "live-server": "^1.2.1"
+    }
+  }

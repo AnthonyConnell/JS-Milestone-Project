@@ -1,0 +1,7 @@
+Hi everyone!
+
+I thought long and hard about a game to make. I thought about a maze game, a casino game, but ended up settling on the game I played a lot in high school: Snake. It provided a lot of hours of fun, as the replayability was high, and at the time in my life, there wasn't an immense about of choices when it came to games on your phone. You still had to pay for text messages!! 
+
+So here we are.
+
+Instructions: When the page loads, your snake will begin moving as soon as you hit an arrow key. Your snake will grow in length by 2 boxes for every piece of food you eat. Running into any part of your body OR the sides of the grid will result in a game over. Good luck!
